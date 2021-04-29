@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="RMI">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/RMI" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/RMI/Client/src" />
+      <root url="file://$PROJECT_DIR$/RMI/Interface/src" />
+      <root url="file://$PROJECT_DIR$/RMI/Server/src" />
+    </SOURCES>
+  </library>
+</component>
